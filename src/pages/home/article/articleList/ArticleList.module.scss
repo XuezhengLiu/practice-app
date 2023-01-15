@@ -1,0 +1,18 @@
+.root {
+  :global {
+    .article-item {
+      position: relative;
+      padding: 0 16px;
+      color: #323233;
+      font-size: 14px;
+      background-color: #fff;
+    }
+
+    .list-no-more {
+      color: #969799;
+      font-size: 14px;
+      line-height: 50px;
+      text-align: center;
+    }
+  }
+}
